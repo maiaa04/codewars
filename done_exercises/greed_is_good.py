@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5270d0d18625160ada0000e4
+
 def greed(roll):
   numbers = {
     10: roll.count(1),
